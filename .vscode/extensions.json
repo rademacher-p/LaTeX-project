@@ -1,0 +1,23 @@
+{
+    "recommendations": [
+        // General
+        "ms-vscode-remote.vscode-remote-extensionpack",
+        "ms-vscode.live-server",
+        "ms-vsliveshare.vsliveshare",
+        // Editing
+        "visualstudioexptteam.vscodeintellicode",
+        "albert.tabout",
+        "Gruntfuggly.todo-tree",
+        // Git + Docker
+        "eamodio.gitlens",
+        "codezombiech.gitignore",
+        "ms-azuretools.vscode-docker",
+        // Languages
+        "yzhang.markdown-all-in-one",
+        "bierner.markdown-emoji",
+        "redhat.vscode-yaml",
+        "tamasfe.even-better-toml",
+        "mechatroner.rainbow-csv",
+        "James-Yu.latex-workshop",
+    ]
+}
